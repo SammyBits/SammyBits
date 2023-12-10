@@ -22,14 +22,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![API-REST](https://img.shields.io/badge/API--REST-%2355efc4.svg?style=for-the-badge)
-
-## Proyectos Destacados 🌟
-
-- 🚀 [Proyecto 1](#): Descripción del primer proyecto destacado.
-- 🌐 [Proyecto 2](#): Descripción del segundo proyecto destacado.
-
-## Contacto 📫
-
-¡Hablemos! Encuéntrame en [LinkedIn](#) o [Twitter](#). Estoy emocionado de conectarme con otros apasionados por la tecnología.
-
-¡Gracias por visitar! 🚀✨

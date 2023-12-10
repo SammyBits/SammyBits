@@ -8,7 +8,7 @@
 - 🎂 **Edad:** 17 años
 - 💻 **Lenguajes Primarios:** C#, Java
 - 🌐 **Lenguajes Secundarios:** Node.js, JS
-- 📊 **Gestores de Base de Datos:** MySQL/MongoDB, MongoDB, SQLite
+- 📊 **Gestores de Base de Datos:** MySQL/MariaDB, MongoDB, SQLite
 - 🚀 **Tecnologías:** API-REST
 - 🎨 **Frameworks CSS:** Bulma, Bootstrap 5
 
@@ -18,7 +18,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL/MariaDB](https://img.shields.io/badge/MySQL%2FMariaDB-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![API-REST](https://img.shields.io/badge/API--REST-%2355efc4.svg?style=for-the-badge)

@@ -10,7 +10,7 @@
 - 🌐 **Lenguajes Secundarios:** Node.js, JavaScript, HTML5, CSS3
 - 📊 **Gestores de Base de Datos:** MySQL/MariaDB, MongoDB, SQLite
 - 🚀 **Tecnologías:** API-REST, GIT, .NET
-- 🎨 **Frameworks:** Bulma, Bootstrap 5, Tauri
+- 🎨 **Frameworks:** Bulma, Bootstrap 5, Tauri, Express.js
 
 ## Habilidades y Herramientas 🔧
 
@@ -37,6 +37,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8.svg?style=for-the-badge&logo=Tauri&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## Github Estadísticas 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyBits&theme=blue-green)

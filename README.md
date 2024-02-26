@@ -10,7 +10,7 @@
 - 🌐 **Lenguajes Secundarios:** Node.js, JavaScript, HTML5, CSS3
 - 📊 **Gestores de Base de Datos:** MySQL/MariaDB, MongoDB, SQLite
 - 🚀 **Tecnologías:** API-REST, GIT, .NET
-- 🎨 **Frameworks:** Bulma, Bootstrap 5, Tauri, Express.js
+- 🎨 **Frameworks:** Bulma, Bootstrap 5, Tauri, Express.js, React
 - [![wakatime](https://wakatime.com/badge/user/018d996e-486e-4f06-ae96-c2d4bb00958d.svg)](https://wakatime.com/@018d996e-486e-4f06-ae96-c2d4bb00958d)
 
 ## Habilidades y Herramientas 🔧

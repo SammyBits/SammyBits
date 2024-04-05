@@ -9,8 +9,8 @@
 - 💻 **Lenguajes Primarios:** C#, TypeScript, Java
 - 🌐 **Lenguajes Secundarios:** Node.js, JavaScript, HTML5, CSS3
 - 📊 **Gestores de Base de Datos:** MySQL/MariaDB, MongoDB, SQLite
-- 🚀 **Tecnologías:** API-REST, GIT, .NET
-- 🎨 **Frameworks:** Bulma, Bootstrap 5, Tauri, Express.js, React
+- 🚀 **Tecnologías:** API-REST, GIT, .NET, VITE
+- 🎨 **Frameworks:** Bulma, Bootstrap 5, Tauri, Express.js, React, Blazor
 - [![wakatime](https://wakatime.com/badge/user/018d996e-486e-4f06-ae96-c2d4bb00958d.svg)](https://wakatime.com/@018d996e-486e-4f06-ae96-c2d4bb00958d)
 
 ## Habilidades y Herramientas 🔧
@@ -39,7 +39,6 @@
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8.svg?style=for-the-badge&logo=Tauri&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-## Github Estadísticas 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyBits&theme=blue-green)
-![Stats2](https://github-readme-stats.vercel.app/api?username=SammyBits&theme=blue-green)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)

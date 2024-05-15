@@ -9,8 +9,8 @@
 - 💻 **Lenguajes Primarios:** C#, TypeScript, Java
 - 🌐 **Lenguajes Secundarios:** Node.js, JavaScript, HTML5, CSS3
 - 📊 **Gestores de Base de Datos:** MySQL/MariaDB, MongoDB, SQLite
-- 🚀 **Tecnologías:** API-REST, GIT, .NET, VITE
-- 🎨 **Frameworks:** Bulma, Bootstrap 5, Tauri, Express.js, React, Blazor
+- 🚀 **Tecnologías:** API-REST, GIT, .NET, VITE, ASTRO,
+- 🎨 **Frameworks:** Bulma, Bootstrap 5, Tauri, Express.js, React, Blazor, Tailwind
 ## Habilidades y Herramientas 🔧
 
 ### Lenguajes de Programación

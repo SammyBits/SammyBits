@@ -1,42 +1,33 @@
 # ¡Hola, soy Samuel Beato! 👋
 
-¡Bienvenido a mi espacio en GitHub! Soy un apasionado **backend developer** de 17 años, enfocado en construir soluciones tecnológicas innovadoras. Aquí encontrarás un vistazo rápido a mis habilidades y tecnologías preferidas.
+¡Bienvenido a mi espacio en GitHub! Soy un apasionado **backend developer** de 18 años, enfocado en construir soluciones tecnológicas innovadoras. Aquí encontrarás una visión general de mis habilidades, proyectos destacados y tecnologías preferidas.
 
-## Acerca de mí 🚀
+## 🧑‍💻 Acerca de mí
 
-- 👦 **Nombre:** Samuel Beato
-- 🎂 **Edad:** 18 años
-- 💻 **Lenguajes Primarios:** C#, TypeScript, Java
-- 🌐 **Lenguajes Secundarios:** Node.js, JavaScript, HTML5, CSS3
-- 📊 **Gestores de Base de Datos:** MySQL/MariaDB, MongoDB, SQLite
-- 🚀 **Tecnologías:** API-REST, GIT, .NET, VITE, ASTRO,
-- 🎨 **Frameworks:** Bulma, Bootstrap 5, Tauri, Express.js, React, Blazor, Tailwind
-## Habilidades y Herramientas 🔧
+- 🌱 Actualmente, estoy aprendiendo **Rust**, **Docker** y **Jest**.
+- 🎓 En camino de convertirme en un experto en **desarrollo backend**.
+- 🚀 Apasionado por crear aplicaciones escalables y eficientes.
+- 💬 ¡No dudes en preguntarme sobre **.NET**, **Typescript**, y **React**!
 
-### Lenguajes de Programación
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+## 🛠️ Habilidades
 
-### Lenguajes de Etiquetas y Estilizado
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### ⚡ Tecnologías Principales
+[![My Skills](https://skillicons.dev/icons?i=cs,net,ts,js,react,html,css,tailwind,git,github,postman,vscode,visualstudio,mongodb,mysql,express,nodejs)](https://skillicons.dev)
 
-### Gestores de Bases de Datos
-![MySQL/MariaDB](https://img.shields.io/badge/MySQL%2FMariaDB-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+### ⚡ Experiencia en
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vercel,vite,astro,bootstrap,java,sqlite,wasm,bun,linux)](https://skillicons.dev)
 
-### Tecnologías y Herramientas
-![API-REST](https://img.shields.io/badge/API--REST-%2355efc4.svg?style=for-the-badge)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8.svg?style=for-the-badge&logo=Tauri&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+### 👨‍💻 Aprendiendo Actualmente
+[![My Skills](https://skillicons.dev/icons?i=rust,jest,redis,docker,tauri&perline=8)](https://skillicons.dev)
+
+## 🏆 Logros
+[![trophy](https://github-profile-trophy.vercel.app/?username=SammyBits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📫 Contacto
+
+- **Email:** samuelbeato7@gmail.com
+- **LinkedIn:** [Click aquí!](www.linkedin.com/in/samuel-luciano-beato-flete-598890291)
+
+## 🎯 Estadísticas
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SammyBits&theme=dark-minimalist)](https://git.io/streak-stats)

@@ -26,7 +26,7 @@
 ## 📫 Contacto
 
 - **Email:** samuelbeato7@gmail.com
-- **LinkedIn:** [Click aquí!](www.linkedin.com/in/samuel-luciano-beato-flete-598890291)
+- **LinkedIn:** [Ir a LinkedIn](https://www.linkedin.com/in/sammybits)
 
 ## 🎯 Estadísticas
 

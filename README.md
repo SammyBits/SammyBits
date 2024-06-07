@@ -5,7 +5,7 @@
 ## Acerca de mí 🚀
 
 - 👦 **Nombre:** Samuel Beato
-- 🎂 **Edad:** 17 años
+- 🎂 **Edad:** 18 años
 - 💻 **Lenguajes Primarios:** C#, TypeScript, Java
 - 🌐 **Lenguajes Secundarios:** Node.js, JavaScript, HTML5, CSS3
 - 📊 **Gestores de Base de Datos:** MySQL/MariaDB, MongoDB, SQLite

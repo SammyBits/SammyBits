@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,net,ts,js,react,html,css,tailwind,git,github,postman,vscode,visualstudio,mongodb,mysql,express,nodejs)](https://skillicons.dev)
 
 ### ⚡ Experiencia en
-[![My Skills](https://skillicons.dev/icons?i=nextjs,vercel,vite,astro,bootstrap,java,sqlite,wasm,bun,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vercel,vite,astro,bootstrap,java,sqlite,bun,linux)](https://skillicons.dev)
 
 ### 👨‍💻 Aprendiendo Actualmente
 [![My Skills](https://skillicons.dev/icons?i=rust,jest,redis,docker,tauri&perline=8)](https://skillicons.dev)

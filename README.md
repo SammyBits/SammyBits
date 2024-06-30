@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,vercel,vite,astro,bootstrap,java,sqlite,bun,linux)](https://skillicons.dev)
 
 ### 👨‍💻 Aprendiendo Actualmente
-[![My Skills](https://skillicons.dev/icons?i=rust,jest,redis,docker,tauri&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,rust,jest,redis,docker,tauri&perline=8)](https://skillicons.dev)
 
 ## 🏆 Logros
 [![trophy](https://github-profile-trophy.vercel.app/?username=SammyBits&theme=onedark&row=1&column=4&no-bg=true&title=MultiLanguage,PullRequest,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)

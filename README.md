@@ -30,4 +30,4 @@
 
 ## 🎯 Estadísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SammyBits&theme=dark-minimalist)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SammyBits&theme=transparent)](https://git.io/streak-stats)

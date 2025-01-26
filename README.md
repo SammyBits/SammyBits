@@ -21,11 +21,13 @@
 ### 🖥️ Frontend Development
 <span>
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5">
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
-    <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" alt="Blazor" title="Blazor" style="width: 48px; height: 48px; margin: 5px">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap">
+
+  <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" alt="Blazor" title="Blazor" style="width: 48px; height: 48px; margin: 5px">
+  
   <img src="https://cdn.worldvectorlogo.com/logos/bulma.svg" alt="Bulma CSS" title="Bulma CSS" style="width: 48px; height: 48px; margin: 5px">
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind" title="Talwind" style="width: 48px; height: 48px; margin: 5px">
   <img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="Tailwind" title="Talwind" style="width: 48px; height: 48px; margin: 5px">
@@ -39,14 +41,15 @@
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js">
   <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript">
-  <img src="https://hono.dev/images/logo-small.png" alt="HonoJS" title="HonoJS" style="width: 48px; height: 48px; margin: 5px">
   <img src="https://skillicons.dev/icons?i=bun" alt="Bun" title="Bun">
+  <img src="https://hono.dev/images/logo-small.png" alt="HonoJS" title="HonoJS" style="width: 48px; height: 48px; margin: 5px">
 </span>  
 
 ### 🗃️ Data Layer
 <span>
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDb" title="MySQL">
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite">
   <img src="https://avatars.githubusercontent.com/u/83077457?s=48&v=4" alt="Dapper" title="Dapper">
 </span>  
@@ -59,6 +62,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code">
   <img src="https://skillicons.dev/icons?i=rider" alt="Rider" title="Rider">
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman">
+  <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="Insomnia" title="Postman" style="width: 48px; height: 48px; margin: 5px">
 </span>  
 
 ---

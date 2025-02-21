@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript">
   <img src="https://skillicons.dev/icons?i=bun" alt="Bun" title="Bun">
-  <img src="https://hono.dev/images/logo-small.png" alt="HonoJS" title="HonoJS" style="width: 48px; height: 48px; margin: 5px">
+  <img src="https://hono.dev/images/logo.svg" alt="HonoJS" title="HonoJS" style="width: 48px; height: 48px; margin: 5px">
 </span>  
 
 ### 🗃️ Data Layer
@@ -62,7 +62,9 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code">
   <img src="https://skillicons.dev/icons?i=rider" alt="Rider" title="Rider">
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman">
-  <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="Insomnia" title="Postman" style="width: 48px; height: 48px; margin: 5px">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux">
+  <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="Insomnia" title="Insomnia" style="width: 48px; height: 48px; margin: 5px">
+  <img src="https://mintlify.s3.us-west-1.amazonaws.com/hoppscotch/logo/dark.svg" alt="Hoppscotch" title="Hoppscotch" style="width: 48px; height: 48px; margin: 5px">
 </span>  
 
 ---
